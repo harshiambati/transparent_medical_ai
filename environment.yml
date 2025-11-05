@@ -1,0 +1,15 @@
+name: transparent-medical-ai
+channels:
+  - defaults
+dependencies:
+  - python=3.12.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - pip
+  - pip:
+      - gdown     # for Google Drive downloads (optional)
+      - kaggle    # if you're pulling data from Kaggle
