@@ -3,7 +3,8 @@ Group Project for CSC 594. MRI Tumor Classification with LLM Integration.
 
 ## **1. Project Scope Area**
 
-- **Objective**:  
+- **Objective**:
+- MRI-based (image based) brain tumor classification through the integration of a convolutional neural network (CNN) and large language model (LLM) 
 
 ## **Data Setup**
 
